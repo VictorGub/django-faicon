@@ -9,6 +9,7 @@ ICON_STYLES = (
     ('far', 'regular'),
     ('fal', 'light'),
     ('fab', 'brands'),
+    ('fad', 'duotone'),
 )
 
 

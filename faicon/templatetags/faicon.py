@@ -19,6 +19,7 @@ ICON_STYLES = {
     'regular': 'far',
     'light': 'fal',
     'brands': 'fab',
+    'duotone': 'fad',
 }
 
 
