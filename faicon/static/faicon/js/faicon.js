@@ -1,6 +1,6 @@
 
 $( document ).ready(function() {
-    var icon_field = null;
+    window.icon_field = null;
     var style = [];
     $( '<div id="faicon-modal-cont"></div>' ).appendTo( "body" );
     $( "#faicon-modal-cont" ).load( "/faicon/render_icon_list_modal/" ,function() {
